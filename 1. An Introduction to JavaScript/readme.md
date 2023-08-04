@@ -139,7 +139,7 @@ A: While it's useful to know about transpiled languages, it is recommended for b
 
 Answers:
 1. A
-2. A
+2. B
 3. B
 4. C
 5. A
