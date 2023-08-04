@@ -72,8 +72,6 @@ A: JavaScript was initially created for browsers but is now used in various envi
 
 A: While it's useful to know about transpiled languages, it is recommended for beginners to first master JavaScript before diving into other languages.
 
-**Q: Should beginners explore transpiled languages immediately?**
-A: While it's useful to know about transpiled languages, it is recommended for beginners to first master JavaScript before diving into other languages.
 
 
 
