@@ -3,6 +3,7 @@
 ## Introduction to JavaScript
 
 **Q: What is JavaScript mainly used for?**
+
 A: JavaScript was initially created to make web pages interactive and dynamic, allowing developers to create dynamic content that responds to user actions.
 
 **Q: Why was it initially called "LiveScript"?**
