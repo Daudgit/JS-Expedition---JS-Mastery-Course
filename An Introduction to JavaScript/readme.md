@@ -75,3 +75,80 @@ A: While it's useful to know about transpiled languages, it is recommended for b
 **Q: Should beginners explore transpiled languages immediately?**
 A: While it's useful to know about transpiled languages, it is recommended for beginners to first master JavaScript before diving into other languages.
 
+
+
+# Quizes to attemps:
+
+1. **What was JavaScript initially created for?**
+   - A. Web page interactivity
+   - B. Server-side programming
+   - C. Mobile application development
+   - D. Graphics rendering
+
+2. **Why was the name "LiveScript" changed to "JavaScript"?**
+   - A. To avoid confusion with Java
+   - B. To attract Java developers
+   - C. To emphasize its live updating capabilities
+   - D. To promote the Java language
+
+3. **What is the relationship between JavaScript and Java?**
+   - A. JavaScript is a newer version of Java.
+   - B. They are completely unrelated.
+   - C. JavaScript is a subset of Java.
+   - D. JavaScript is an extended version of Java.
+
+4. **Where can JavaScript be executed?**
+   - A. Only in web browsers
+   - B. Only on servers with Node.js
+   - C. Any device with a JavaScript engine
+   - D. Only in mobile applications
+
+5. **Which engine is used in Chrome, Opera, and Edge browsers?**
+   - A. V8
+   - B. SpiderMonkey
+   - C. JavaScriptCore
+   - D. Chakra
+
+6. **What can in-browser JavaScript do?**
+   - A. Access arbitrary files on the user's hard disk
+   - B. Read and write cookies
+   - C. Sneakily enable the web camera without permission
+   - D. Send network requests to remote servers
+
+7. **What is the purpose of the "Same Origin Policy" in JavaScript?**
+   - A. To prevent unauthorized access to private information from other sites
+   - B. To allow JavaScript to run on any website without restrictions
+   - C. To enable JavaScript communication between different browser tabs
+   - D. To prevent JavaScript from accessing the local storage
+
+8. **What makes JavaScript unique compared to other browser technologies?**
+   - A. Full integration with HTML/CSS, simplicity, and wide browser support
+   - B. Access to low-level memory and CPU operations
+   - C. Native support for graphics rendering and animations
+   - D. Direct interaction with the operating system's functions
+
+9. **Can JavaScript be used outside of the browser?**
+   - A. No, JavaScript is exclusively a browser-only language.
+   - B. Yes, it can also run on servers with Node.js and in mobile applications.
+   - C. Yes, but only with the help of transpiled languages.
+   - D. Yes, but only in special JavaScript virtual machines.
+
+10. **Which language is "syntactic sugar" for JavaScript and is preferred by Ruby developers?**
+    - A. TypeScript
+    - B. Flow
+    - C. Dart
+    - D. CoffeeScript
+
+Answers:
+1. A
+2. A
+3. B
+4. C
+5. A
+6. B
+7. A
+8. A
+9. B
+10. D
+
+_Feel free to use these quiz questions to test your knowledge of JavaScript concepts!_
