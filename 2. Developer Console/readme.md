@@ -24,10 +24,10 @@ Answer: Chrome and Firefox are considered to have the best developer tools, alth
 # 🎯 Quiz 1: Developer Tools Essentials 🎯
 
 1️⃣ Why are developer tools important for web development?
-a) They make websites load faster.
-b) They help improve website design.
-c) They allow developers to identify and fix errors, run JavaScript commands, and examine variables.
-d) They enable browser compatibility testing.
+- a) They make websites load faster.
+- b) They help improve website design.
+- c) They allow developers to identify and fix errors, run JavaScript commands, and examine variables.
+- d) They enable browser compatibility testing.
 
 Answer: c) They allow developers to identify and fix errors, run JavaScript commands, and examine variables.
 
