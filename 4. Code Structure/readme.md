@@ -106,3 +106,20 @@ numbers.forEach((number) => {
    - c) To create loops and conditional statements.
    - d) To declare variables and functions.
 
+### Quiz Answers:
+**Quiz 1: Statements and Semicolons**
+
+1. Which of the following is the correct way to write two separate alert statements in JavaScript?
+   Answer: b) `alert('Hello'); alert('World')`
+
+2. When can you omit semicolons between JavaScript statements?
+   Answer: b) When there is a line break between statements.
+
+**Quiz 2: Comments in JavaScript**
+
+1. Which type of comment in JavaScript can span multiple lines?
+   Answer: b) Multiline comments starting with `/*` and ending with `*/`.
+
+2. What is the purpose of comments in JavaScript?
+   Answer: b) To improve code readability and understanding.
+
