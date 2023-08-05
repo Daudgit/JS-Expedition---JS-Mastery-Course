@@ -76,3 +76,33 @@ numbers.forEach((number) => {
 2. Comments play a crucial role in code understanding and should be used effectively.
 3. Remember to use descriptive comments, especially for complex code.
 4. Use code examples to illustrate concepts and improve understanding.
+
+
+## **Quiz 1: Statements and Semicolons**
+
+1. Which of the following is the correct way to write two separate alert statements in JavaScript?
+   - a) `alert('Hello') alert('World')`
+   - b) `alert('Hello'); alert('World')`
+   - c) `alert('Hello') : alert('World')`
+   - d) `alert('Hello') , alert('World')`
+
+2. When can you omit semicolons between JavaScript statements?
+   - a) Always, it is not required.
+   - b) When there is a line break between statements.
+   - c) When statements are on separate lines.
+   - d) Only when using single-line comments.
+
+## **Quiz 2: Comments in JavaScript**
+
+1. Which type of comment in JavaScript can span multiple lines?
+   - a) Single-line comments starting with `//`.
+   - b) Multiline comments starting with `/*` and ending with `*/`.
+   - c) Single-line comments starting with `#`.
+   - d) Multiline comments starting with `<!--` and ending with `-->`.
+
+2. What is the purpose of comments in JavaScript?
+   - a) To execute specific blocks of code.
+   - b) To improve code readability and understanding.
+   - c) To create loops and conditional statements.
+   - d) To declare variables and functions.
+
