@@ -13,42 +13,42 @@ The core JavaScript concepts covered in this section include:
 📝 **Quiz** 📝
 
 1️⃣ Why do we use the <script> tag in HTML documents?
-a) To include CSS styles.
-b) To insert JavaScript code into the document.
-c) To define HTML attributes.
-d) To specify the character encoding of the page.
+- a) To include CSS styles.
+- b) To insert JavaScript code into the document.
+- c) To define HTML attributes.
+- d) To specify the character encoding of the page.
 
 Answer: b) To insert JavaScript code into the document.
 
 2️⃣ What is the purpose of using an external script file in HTML?
-a) It makes the page load faster.
-b) It helps reduce browser compatibility issues.
-c) It allows caching of the script, making other pages load faster.
-d) It improves the security of the website.
+- a) It makes the page load faster.
+- b) It helps reduce browser compatibility issues.
+- c) It allows caching of the script, making other pages load faster.
+- d) It improves the security of the website.
 
 Answer: c) It allows caching of the script, making other pages load faster.
 
 3️⃣ Is the "type" attribute required for the <script> tag in modern JavaScript?
-a) Yes, it's required for all scripts.
-b) Yes, but it is used to specify the version of JavaScript.
-c) No, it's not required for modern JavaScript.
-d) No, it's only used for CSS files.
+- a) Yes, it's required for all scripts.
+- b) Yes, but it is used to specify the version of JavaScript.
+- c) No, it's not required for modern JavaScript.
+- d) No, it's only used for CSS files.
 
 Answer: c) No, it's not required for modern JavaScript.
 
 4️⃣ Which attribute can't be used with the <script> tag if the "src" attribute is also used?
-a) "type"
-b) "language"
-c) "src"
-d) "async"
+- a) "type"
+- b) "language"
+- c) "src"
+- d) "async"
 
 Answer: a) "type"
 
 5️⃣ What's the purpose of external scripts in terms of reducing website traffic?
-a) They prevent users from downloading scripts.
-b) They allow caching, so the script is downloaded only once.
-c) They make scripts load asynchronously.
-d) They block other scripts from being downloaded.
+- a) They prevent users from downloading scripts.
+- b) They allow caching, so the script is downloaded only once.
+- c) They make scripts load asynchronously.
+- d) They block other scripts from being downloaded.
 
 Answer: b) They allow caching, so the script is downloaded only once.
 
