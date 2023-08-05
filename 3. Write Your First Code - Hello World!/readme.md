@@ -96,6 +96,4 @@ JavaScript code in alert.js:
 alert("I'm JavaScript!");
 ```
 
-Now, you have a better understanding of attaching JavaScript code to an HTML page and using external scripts! 🎉
-
-To upload this content to your readme.md file on GitHub, simply copy and paste the text into the file and commit the changes. Feel free to add emojis, code examples, and make any necessary formatting adjustments for your GitHub readme file. 🚀😊
+Now, you have a better understanding of attaching JavaScript code to an HTML page and using external scripts! 🎉 🚀😊
