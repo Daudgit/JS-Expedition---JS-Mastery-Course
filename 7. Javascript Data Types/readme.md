@@ -92,34 +92,34 @@ In the next chapters, we'll dive deeper into each data type and explore their fe
 ## Quiz Time! 🎉
 
 1. What is the result of `typeof null`?
-   a) "undefined"
-   b) "null"
-   c) "object" ✅
-   d) "string"
+   - a) "undefined"
+   - b) "null"
+   - c) "object" ✅
+   - d) "string"
 
 2. Which data type can represent integers larger than (2^53 - 1) and -(2^53 - 1)?
-   a) Number
-   b) BigInt ✅
-   c) String
-   d) Object
+   - a) Number
+   - b) BigInt ✅
+   - c) String
+   - d) Object
 
 3. What is the difference between single and double quotes for strings?
-   a) Single quotes allow embedding variables using `${...}`.
-   b) Double quotes allow embedding variables using `${...}`.
-   c) There's no difference; both are interchangeable. ✅
-   d) Single quotes are used for numeric strings only.
+   - a) Single quotes allow embedding variables using `${...}`.
+   - b) Double quotes allow embedding variables using `${...}`.
+   - c) There's no difference; both are interchangeable. ✅
+   - d) Single quotes are used for numeric strings only.
 
 4. What does NaN stand for?
-   a) Not a Name
-   b) Not a Number ✅
-   c) New and Nice
-   d) Null and Nil
+   - a) Not a Name
+   - b) Not a Number ✅
+   - c) New and Nice
+   - d) Null and Nil
 
 5. Which data type represents text in JavaScript?
-   a) String ✅
-   b) Boolean
-   c) Number
-   d) Object
+   - a) String ✅
+   - b) Boolean
+   - c) Number
+   - d) Object
 
 # JavaScript Data Types 📝
 
