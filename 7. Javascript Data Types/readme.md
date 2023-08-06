@@ -157,6 +157,7 @@ In the next chapters, we'll dive deeper into each data type and explore their fe
 Great job! You're well on your way to becoming a JavaScript pro! 🚀
 
 
+
 Q1. What is the difference between undefined and null?
 A1. Both `undefined` and `null` represent the absence of a value. However, `undefined` is the default value for uninitialized variables, while `null` is used to explicitly indicate that a variable has no value.
 
