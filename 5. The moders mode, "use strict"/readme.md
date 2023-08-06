@@ -53,7 +53,7 @@ However, for now, it's recommended to include "use strict" at the top of your sc
 Understanding and using "use strict" in JavaScript is essential for writing cleaner and safer code. It sets the foundation for adopting modern JavaScript features and ensures better compatibility across different environments. Embrace strict mode as a helpful tool to improve your coding practices! 😊
 
 
-Here are some questions and quizzes related to the "use strict" directive in JavaScript. Try to answer them, and I'll provide the answers below:
+### Here are some questions and quizzes related to the "use strict" directive in JavaScript. Try to answer them, and I'll provide the answers below:
 
 1. **Question:** What is the purpose of the "use strict" directive in JavaScript?
 
@@ -61,25 +61,25 @@ Here are some questions and quizzes related to the "use strict" directive in Jav
 
 3. **Quiz:** Identify which of the following code snippets enable strict mode correctly:
 
-A)
+- A)
 ```js
 'use strict';
 console.log('Hello, world!');
 ```
 
-B)
+- B)
 ```js
 "use strict";
 console.log('Hello, world!');
 ```
 
-C)
+- C)
 ```js
 console.log('Hello, world!');
 "use strict";
 ```
 
-D)
+- D)
 ```js
 console.log('Hello, world!');
 'use strict';
@@ -87,20 +87,20 @@ console.log('Hello, world!');
 
 4. **Quiz:** What happens if you try to revert to the old behavior after entering strict mode using "use strict"?
 
-A) It is possible to revert using "no use strict" directive.
-B) It's not possible to revert to the old behavior once strict mode is enabled.
+- A) It is possible to revert using "no use strict" directive.
+- B) It's not possible to revert to the old behavior once strict mode is enabled.
 
 5. **Question:** How can you enable strict mode when running code in the browser console?
 
-A) "use strict"; should be placed at the top of the code.
-B) Use Shift+Enter to input multiple lines and put "use strict" at the beginning.
-C) Wrap the code in an IIFE with "use strict" inside.
+- A) "use strict"; should be placed at the top of the code.
+- B) Use Shift+Enter to input multiple lines and put "use strict" at the beginning.
+- C) Wrap the code in an IIFE with "use strict" inside.
 
 6. **Quiz:** Which of the following statements is true about strict mode?
 
-A) Strict mode enables all JavaScript features automatically.
-B) "use strict" can only be used at the top of the script.
-C) Strict mode is enabled by default in developer consoles.
+- A) Strict mode enables all JavaScript features automatically.
+- B) "use strict" can only be used at the top of the script.
+- C) Strict mode is enabled by default in developer consoles.
 
 Answers:
 1. **Answer:** The "use strict" directive in JavaScript enables strict mode, which enforces a stricter set of rules and disallows certain unsafe practices, resulting in more secure and reliable code.
@@ -115,4 +115,4 @@ Answers:
 
 6. **Quiz Answer:** B) "use strict" can only be used at the top of the script. It must be placed before any other code or comments to be effective.
 
-Feel free to use these questions and quizzes for learners to practice and reinforce their understanding of the "use strict" directive in JavaScript. Happy learning! 🌟
+Feel free to solve these questions and quizzes to practice and reinforce their understanding of the "use strict" directive in JavaScript. Happy learning! 🌟
